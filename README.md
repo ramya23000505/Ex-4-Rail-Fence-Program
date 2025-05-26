@@ -4,7 +4,7 @@
 
 # AIM:
 
-# To write a C program to implement the rail fence transposition technique.
+To write a C program to implement the rail fence transposition technique.
 
 # DESCRIPTION:
 
@@ -82,3 +82,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/cf592cfa-6d98-4541-a87c-27fea2fb94e3)
 
 # RESULT
+The program is executed successfully
